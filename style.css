@@ -1,0 +1,16 @@
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@600&family=Lato:wght@300;400&family=Source+Sans+Pro:ital,wght@0,700;1,400&display=swap');
+  *{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+  :root{
+    --title: #ECE4EF;
+    --description: #D8CEDE;
+    --description: #9C83A7;
+
+
+  }
+  body{
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
